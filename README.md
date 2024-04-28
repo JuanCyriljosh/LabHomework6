@@ -53,6 +53,7 @@ public class OrderTest {
   }
 }</pre>
 
-<img src="UML_Diagram_LabHW6" alt="DIAGRAM">
+
+![UML_Diagram_LabHW6](https://github.com/JuanCyriljosh/LabHomework6/assets/152839993/b9e1b31d-e934-4a02-8d60-c6905a2005d5)
 
 
